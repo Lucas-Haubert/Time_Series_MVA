@@ -10,9 +10,9 @@ This project is a comprehensive study and application of the paper titled "How t
 
 - `Report.pdf`: A detailed report of my work and findings based on the original paper.
 - `Slides.pdf`: Presentation slides summarizing the key points and results of the study.
-- `nussvm.py` : Contains the implementation of the article's algorithm.
-- `s3vmad` : Conatins the implementation of a slightly different approach.
-- `expert_heartbeat.ipynb`, `preproc_heartbeat.ipynb` and `wavelet_heartbeat.ipynb` : Contain notebooks that run our work, applied on one dataset, following different pipelines.
+- `nussvm.py` : Implementation of the article's algorithm.
+- `s3vmad.py` : Implementation of a slightly different approach.
+- `expert_heartbeat.ipynb`, `preproc_heartbeat.ipynb` and `wavelet_heartbeat.ipynb` : Notebooks that run our work, applied on one dataset, following different pipelines.
 
 ## Original Content and Data
 
