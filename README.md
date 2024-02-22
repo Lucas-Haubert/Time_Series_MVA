@@ -16,4 +16,5 @@ This project is a comprehensive study and application of the paper titled "How t
 The code and methodologies implemented in this project are based on the author's contributions:
 
 [Julien Lesouple's website](http://perso.recherche.enac.fr/~julien.lesouple/)
+
 [Dataset used in the original paper](https://github.com/shubhomoydas/ad_examples/tree/master/ad_examples/datasets/anomaly)
