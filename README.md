@@ -11,7 +11,7 @@ This project is a comprehensive study and application of the paper titled "How t
 - `Report.pdf`: A detailed report of my work and findings based on the original paper.
 - `Slides.pdf`: Presentation slides summarizing the key points and results of the study.
 
-## Original Content
+## Original Content and Data
 
 The code and methodologies implemented in this project are based on the author's contributions:
 
@@ -19,4 +19,6 @@ The code and methodologies implemented in this project are based on the author's
 
 [Dataset used in the original paper](https://github.com/shubhomoydas/ad_examples/tree/master/ad_examples/datasets/anomaly)
 
-[Link for the time series datasets used in the project](https://www.timeseriesclassification.com/dataset.php)
+Link for the time series datasets used in the project:
+
+[Time Series Classification Website](https://www.timeseriesclassification.com/dataset.php)
