@@ -25,3 +25,9 @@ The code and methodologies implemented in this project are based on the author's
 Link for the time series datasets used in the project:
 
 [Time Series Classification Website](https://www.timeseriesclassification.com/dataset.php)
+
+## Grade and acknowledgements
+
+Final grade of the project : 16,5/20
+
+I would like to acknowledge Professor Laurent Oudre, ENS Paris-Saclay, for his course of Machine Learning for Time Series, part of the MVA master's program.
