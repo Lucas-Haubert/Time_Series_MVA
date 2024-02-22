@@ -18,3 +18,5 @@ The code and methodologies implemented in this project are based on the author's
 [Julien Lesouple's website](http://perso.recherche.enac.fr/~julien.lesouple/)
 
 [Dataset used in the original paper](https://github.com/shubhomoydas/ad_examples/tree/master/ad_examples/datasets/anomaly)
+
+[Link for the time series datasets used in the project](https://www.timeseriesclassification.com/dataset.php)
