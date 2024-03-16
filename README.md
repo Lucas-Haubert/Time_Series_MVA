@@ -30,6 +30,6 @@ Link for the time series datasets used in the project:
 
 Final grade of the project : 16,5/20
 
-I would like to acknowledge Professor Laurent Oudre, ENS Paris-Saclay, for his course of Machine Learning for Time Series, part of the MVA master's program.
+I would like to acknowledge Professor [Laurent Oudre](http://www.laurentoudre.fr/), ENS Paris-Saclay, for his course of Machine Learning for Time Series, part of the MVA master's program.
 
-I also thank Steven Zheng, Master MVA, for working with me on this project.
+I also thank [Steven Zheng](https://www.linkedin.com/in/stevenzheng07/), Master MVA, for working with me on this project.
