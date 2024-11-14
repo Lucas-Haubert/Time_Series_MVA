@@ -8,7 +8,7 @@ This project is a comprehensive study and application of the paper titled "How t
 
 ## Repository Contents
 
-- `Report.pdf`: Detailed report of my work and findings based on the original paper.
+- `Report.pdf`: Detailed report of the work and findings based on the original paper.
 - `Slides.pdf`: Presentation slides summarizing the key points and results of the study.
 - `nussvm.py` : Implementation of the article's algorithm.
 - `s3vmad.py` : Implementation of a slightly different approach.
